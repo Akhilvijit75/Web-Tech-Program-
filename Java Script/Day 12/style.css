@@ -1,0 +1,36 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    text-align: center;
+    margin: 20px 0px;
+}
+.main-container{
+    width: 95px;
+    height: 1300px;
+    margin: 30px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.product{
+    width: 100px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 5px gray;
+    border-radius: 10px;
+    transition: all 0.2s ease-in;
+
+}
+.product-item:hover{
+    transform: scale(1.05);
+    box-shadow: 0px 0px 5px blue;
+}

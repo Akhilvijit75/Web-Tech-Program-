@@ -1,0 +1,36 @@
+[
+    {
+        "id":2001,
+        "name":"Benji Bast",
+        "age":26,
+        "Skills":["html","CSS","Python","Javascript"],
+        "personalDetails":{
+            "address":"Dubai Kuruku sandhu",
+            "City":"Dubai"
+        }
+
+    },
+
+    {
+        "id":2002,
+        "name":"Koki Kumar",
+        "age":29,
+        "Skills":["html","CSS","ReactJs","Javascript"],
+        "personalDetails":{
+            "address":"Vandavasi ooru road",
+            "City":"Vandhavasi"
+        }
+    },
+
+    {
+
+        "id":2001,
+        "name":"Valli Vavalu",
+        "age":65,
+        "Skills":["Acc","CSS","Python","Javascript"],
+        "personalDetails":{
+            "PhoneNo":987654321,
+            "GirlFriend":false
+        }
+    }
+]
